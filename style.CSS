@@ -1,0 +1,36 @@
+table{
+    width: 100%;
+    height: 100vh;
+    margin: 0%;
+}
+#linha1{ height:150px ;}
+#linha2{ height:120px ;}
+#linha3{ height:260px ;}
+#linha4{ height:60px ;}
+#linha5{ height:60px;}
+
+#td1{ width:30% ; background-color: purple;}
+#td2{ width:30% ; text-align: right; background-color:yellow;}
+#td3{ width:40% ; background-color: red;}
+
+#td4{ width:32% ; height: 10%; background-color: red;}
+#td5{ width: 7% ; height: 30%; background-color: purple;}
+#td6{ width:20% ; text-align: center ; background-color: red; vertical-align: top; }
+#td7{ width:18% ; background-color: yellow;}
+#td8{ text-align: left; background-color: purple; vertical-align: bottom;}
+#td9{ background-color: yellow;}
+#td10{ background-color: purple;}
+#td11{ background-color: red;}
+#td12{ height: 100px; background-color: red;}
+.imagem {
+    height: 220px;
+    width: 170px;
+ 
+}
+.texto{
+   text-align: center; font-size: large;
+}
+.imagem2{
+    height: 220px;
+    width: 170px;
+}
